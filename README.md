@@ -21,6 +21,7 @@ Je suis un étudiant ingénieur en double diplôme à **SeaTech (Mécatronique &
 - **GitHub** : [@enzocherif](https://github.com/enzocherif)
 - **LinkedIn** : [Enzo CHERIF](https://www.linkedin.com/in/enzo-cherif-0465b5165/)
 - **Email** : enzocherife@gmail.com
+- **Site web** : [https://enzocherif.github.io/](https://enzocherif.github.io/)
 
 ---
 💡 *Toujours motivé à apprendre, innover et partager mes connaissances. N'hésitez pas à me contacter pour toute collaboration ou échange !* 🚀

@@ -80,6 +80,8 @@
     <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/XML-0061A8?style=flat-square&logo=xml&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/YAML-C9B9A3?style=flat-square&logo=yaml&logoColor=black"><br>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   </td>
 
@@ -88,8 +90,15 @@
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"><br>
     <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"><br>
     <img src="https://img.shields.io/badge/CustomTkinter-0779E4?style=flat-square&logo=python&logoColor=white">
   </td>
 
@@ -98,18 +107,30 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"><br>
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"><br>
+    <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=flat-square&logo=microsoft-excel&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/PowerPoint-A30B1C?style=flat-square&logo=microsoft-powerpoint&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
     <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   </td>
 
   <!-- OTHER -->
   <td align="center" width="200">
-    <img src="https://img.shields.io/badge/win32com-0077C5?style=flat-square&logo=windows&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/xlwings-D35400?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/DDT2000-000000?style=flat-square&logo=renault&logoColor=yellow"><br>
+    <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white"><br>
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/DDT2000-000000?style=flat-square&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/XML-0061A8?style=flat-square&logo=xml&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/xlwings-D35400?style=flat-square&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/win32com-0077C5?style=flat-square&logo=windows&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/Tkinter%20GUI-3776AB?style=flat-square&logo=python&logoColor=white"><br>
+    <img src="https://img.shields.io/badge/DDT%20XML-A6A6A6?style=flat-square&logo=xml&logoColor=white"><br>
     <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
   </td>
 </tr>

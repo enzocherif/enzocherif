@@ -34,23 +34,23 @@
 <table align="center">
   <tr>
     <td align="center" width="60">🎓</td>
-    <td><b>Double-Degree Engineer</b> &nbsp;•&nbsp; <em>SeaTech / INP Toulon</em> &amp; <em>Université de Toulon — Master RISE</em></td>
+    <td><b>Double-Degree Engineer</b> • SeaTech / INP Toulon & Master RISE (Robotics & Embedded AI)</td>
   </tr>
   <tr>
-    <td align="center">🧠</td>
-    <td><b>Final-Year Intern @ Renault Ampere</b> &nbsp;•&nbsp; Python automation (Excel ↔ XML, Tkinter GUIs)</td>
+    <td align="center">🚆</td>
+    <td><b>VIE @ Alstom (USA)</b> • ATS Software & Automation for railway systems</td>
   </tr>
   <tr>
-    <td align="center">🌍</td>
-    <td><b>Former R&amp;D Intern @ TFII Bangkok</b> &nbsp;•&nbsp; Energy-control systems for solar EVs</td>
+    <td align="center">🤖</td>
+    <td><b>Specialized in</b> • AI-driven automation, data pipelines & intelligent tools</td>
   </tr>
   <tr>
     <td align="center">⚙️</td>
-    <td><b>Tech Focus</b> &nbsp;•&nbsp; Python · Automation · Embedded Systems · AI / ML</td>
+    <td><b>Tech Focus</b> • Python · Machine Learning · Data Engineering · Embedded Systems</td>
   </tr>
   <tr>
-    <td align="center">🥋</td>
-    <td><b>Beyond Code</b> &nbsp;•&nbsp; MMA sparring, football pitches &amp; lifelong learning</td>
+    <td align="center">🥊</td>
+    <td><b>Beyond Code</b> • MMA, running & discipline-driven mindset</td>
   </tr>
 </table>
 <!-- ===================================================================== -->
@@ -62,161 +62,206 @@
 ### 🧰 Tech Stack
 
 <table align="center">
+  <tr>
+    <td align="center"><b>Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Automation-111111?style=flat-square&logo=githubactions&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Data%20Processing-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+    </td>
+  </tr>
 
-<tr>
-  <td align="center"><strong>Languages</strong></td>
-  <td align="center"><strong>Frameworks&nbsp;&amp;&nbsp;Libs</strong></td>
-  <td align="center"><strong>Tools</strong></td>
-  <td align="center"><strong>Other</strong></td>
-</tr>
+  <tr>
+    <td align="center"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XML-0061A8?style=flat-square&logo=w3c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+    </td>
+  </tr>
 
-<tr>
-  <!-- LANGUAGES -->
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=c&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/XML-0061A8?style=flat-square&logo=xml&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/YAML-C9B9A3?style=flat-square&logo=yaml&logoColor=black"><br>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  </td>
+  <tr>
+    <td align="center"><b>AI & Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+    </td>
+  </tr>
 
-  <!-- FRAMEWORKS & LIBS -->
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/CustomTkinter-0779E4?style=flat-square&logo=python&logoColor=white">
-  </td>
+  <tr>
+    <td align="center"><b>Automation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XML%20Processing-0061A8?style=flat-square&logo=w3c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/win32com-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+      <img src="https://img.shields.io/badge/xlwings-D35400?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PDF%20Reports-B30B00?style=flat-square&logo=adobeacrobatreader&logoColor=white"/>
+    </td>
+  </tr>
 
-  <!-- TOOLS -->
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"><br>
-    <img src="https://img.shields.io/badge/Spyder-FF0000?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=flat-square&logo=microsoft-excel&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/PowerPoint-A30B1C?style=flat-square&logo=microsoft-powerpoint&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
-  </td>
+  <tr>
+    <td align="center"><b>Interfaces</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CustomTkinter-0779E4?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+    </td>
+  </tr>
 
-  <!-- OTHER -->
-  <td align="center" width="200">
-    <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=flat-square&logo=openai&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/DDT2000-000000?style=flat-square&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/XML-0061A8?style=flat-square&logo=xml&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/xlwings-D35400?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/win32com-0077C5?style=flat-square&logo=windows&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/Tkinter%20GUI-3776AB?style=flat-square&logo=python&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/DDT%20XML-A6A6A6?style=flat-square&logo=xml&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  </td>
-</tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center"><b>Engineering</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Embedded%20Systems-555555?style=flat-square&logo=codeforces&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Railway%20Software-003366?style=flat-square&logo=hackthebox&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 <!-- ===================================================================== -->
 
-
 ---
-
 <!-- ============================== GITHUB STATS ============================== -->
 ### 📊 GitHub Stats & Activity
 
-<!-- Contribution activity graph (met en valeur la densité de commits) -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enzocherif&theme=react-dark&hide_border=true&area=true&custom_title=Contribution+Activity+Graph" width="100%"/>
-</p>
+<div align="center">
+<br><br>
 
-<!-- Stats globales + Streak + Langues -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzocherif&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Overall+Coding+Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=enzocherif&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocherif&layout=compact&theme=radical&langs_count=8" height="165"/>
-</p>
+<!-- Contribution Activity Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=enzocherif&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Activity%20Graph"
+  width="95%"
+  alt="Contribution Activity Graph"
+/>
 
-<!-- Trophy board axé commits / contributions -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzocherif&theme=radical&margin-w=15&margin-h=15&title=Commit,Repositories,PullRequest,Issues,Followers,Stars" />
-</p>
+<br><br>
+
+<!-- GitHub Stats Cards -->
+<table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=enzocherif&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Overall%20Coding%20Stats"
+        height="165"
+        alt="Overall Coding Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzocherif&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages"
+        height="165"
+        alt="Most Used Languages"
+      />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- Streak Card -->
+<img
+  src="https://github-readme-streak-stats.herokuapp.com?user=enzocherif&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+  height="165"
+  alt="GitHub Streak"
+/>
+
+<br><br>
+
+<!-- Minimal tagline -->
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=1000&color=FF00CC&center=true&vCenter=true&width=700&lines=Consistent+commits.+Clean+code.+Real-world+automation.;Building+tools+that+turn+complexity+into+clarity."
+  alt="GitHub activity tagline"
+/>
+
+</div>
 <!-- ========================================================================== -->
-
-
 ---
 
 <!-- ============================== FEATURED PROJECTS ============================== -->
 ### 💼 Featured Projects
 
-<table align="center">
+<p align="center">
+  <em>Public AI projects, automation tools and engineering-oriented software work.</em>
+</p>
 
-<tr>
-  <!-- SMS Classifier -->
-  <td align="center">
-    <a href="https://github.com/enzocherif/Neural-Network-SMS-Text-Classifier">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=Neural-Network-SMS-Text-Classifier&theme=radical" alt="SMS Classifier"/>
-    </a>
-    <br>
-    <sub>🧠 Spam detection with RNN (Python · Keras)</sub>
-  </td>
-
-  <!-- Book Recommender -->
-  <td align="center">
-    <a href="https://github.com/enzocherif/Book-recommendation">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=Book-recommendation&theme=radical" alt="Book Recommender"/>
-    </a>
-    <br>
-    <sub>📚 Similar-book engine using KNN (Python · Pandas)</sub>
-  </td>
-</tr>
-
-<tr>
-  <!-- Cat vs Dog Classifier -->
-  <td align="center">
-    <a href="https://github.com/enzocherif/cat-dog-classifier">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=cat-dog-classifier&theme=radical" alt="Cat vs Dog CNN"/>
-    </a>
-    <br>
-    <sub>🐶 CNN for image classification (TensorFlow)</sub>
-  </td>
-
-  <!-- Renault internal automation (private) -->
-  <td align="center">
-      <img src="https://img.shields.io/badge/🔒 Renault%20Automation-Confidential-555555?style=for-the-badge" alt="Renault Private"/>
-      <br>
-      <sub>📊 High-volume Excel / XML automation toolkit  
-      <br>(Python · Pandas · Tkinter) — internal use</sub>
-  </td>
-</tr>
-
-</table>
+<!-- Public GitHub Projects -->
+<p align="center">
+  <a href="https://github.com/enzocherif/Neural-Network-SMS-Text-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=Neural-Network-SMS-Text-Classifier&theme=radical&hide_border=true" alt="Neural Network SMS Text Classifier"/>
+  </a>
+  <a href="https://github.com/enzocherif/Book-recommendation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=Book-recommendation&theme=radical&hide_border=true" alt="Book Recommendation Engine"/>
+  </a>
+</p>
 
 <p align="center">
-  <em>🚧 Some cutting-edge work remains private for confidentiality reasons,<br>
-  but feel free to reach out for a high-level walkthrough.</em>
+  <a href="https://github.com/enzocherif/indian-electricity-price-forecasting">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=indian-electricity-price-forecasting&theme=radical&hide_border=true" alt="Indian Electricity Price Forecasting"/>
+  </a>
+  <a href="https://github.com/enzocherif/rock-paper-scissors">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=enzocherif&repo=rock-paper-scissors&theme=radical&hide_border=true" alt="Rock Paper Scissors"/>
+  </a>
+</p>
+
+<br>
+
+<!-- Industrial / Confidential Projects -->
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Industrial%20Automation-Confidential-555555?style=for-the-badge&logo=python&logoColor=white" alt="Industrial Automation"/>
+      <br><br>
+      <b>Engineering Automation Tools</b>
+      <br>
+      <sub>Excel, XML and report generation pipelines</sub>
+      <br>
+      <sub>Python · Pandas · OpenPyXL · Tkinter</sub>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.shields.io/badge/Railway%20Software-Confidential-003366?style=for-the-badge&logo=python&logoColor=white" alt="Railway Software"/>
+      <br><br>
+      <b>Railway Software & Diagnostics</b>
+      <br>
+      <sub>Automation tools for logs and troubleshooting workflows</sub>
+      <br>
+      <sub>Python · Log Analysis · Automation · AI-assisted Tools</sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <em>🚧 Some industrial projects remain private, but I can share high-level technical details on request.</em>
 </p>
 <!-- ============================================================================== -->
-
 ---
 
 <!-- ============================== FUN FACT ============================== -->

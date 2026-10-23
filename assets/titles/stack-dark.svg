@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="96" viewBox="0 0 1200 96" role="img" aria-label="Tech stack">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF2E97"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .in { opacity: 0; animation: in .9s cubic-bezier(.2,.8,.2,1) forwards; }
+    .d2 { animation-delay: .2s }
+    @keyframes in { from { opacity: 0; transform: translateX(-14px) } to { opacity: 1; transform: none } }
+    .bar { transform-origin: 0 0; transform: scaleX(0); animation: grow 1.4s cubic-bezier(.2,.8,.2,1) .3s forwards; }
+    @keyframes grow { to { transform: scaleX(1) } }
+    .dot { animation: run 3.2s cubic-bezier(.6,0,.4,1) 1.2s infinite; opacity: 0 }
+    @keyframes run { 0% { transform: translateX(0); opacity: 0 } 10% { opacity: 1 } 90% { opacity: 1 } 100% { transform: translateX(1180px); opacity: 0 } }
+  </style>
+  <g class="in">
+    <text x="2" y="28" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="3" fill="url(#g)" font-weight="700">03 //</text>
+    <text x="80" y="28" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="3" fill="#7D8AA0">TOOLS OF THE TRADE</text>
+  </g>
+  <text class="in d2" x="0" y="72" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Ubuntu,Arial,sans-serif" font-size="38" font-weight="800" letter-spacing="-.5" fill="#E6EDF3">Tech stack</text>
+  <rect x="0" y="88" width="1200" height="2" fill="#22324F"/>
+  <rect class="bar" x="0" y="88" width="1200" height="2" fill="url(#g)"/>
+  <circle class="dot" cx="10" cy="89" r="3.5" fill="#fff"/>
+</svg>

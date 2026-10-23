@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-label="Thanks for stopping by. Keep building, keep automating.">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="640" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset=".35" stop-color="#8B5CF6"/><stop offset=".65" stop-color="#FF2E97"/><stop offset="1" stop-color="#00E5FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="640 0" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#FF2E97"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .wave { animation: wave 8s linear infinite; }
+    .w2 { animation-duration: 12s; animation-direction: reverse; }
+    @keyframes wave { to { transform: translateX(-1200px) } }
+    .msg { opacity: 0; animation: msg 8s infinite; }
+    .m2 { animation-delay: 4s }
+    @keyframes msg { 0% { opacity: 0; transform: translateY(8px) } 8%,42% { opacity: 1; transform: none } 50%,100% { opacity: 0; transform: translateY(-8px) } }
+  </style>
+  <g text-anchor="middle" font-family="'Segoe UI','Inter',-apple-system,'Helvetica Neue',Ubuntu,Arial,sans-serif" font-weight="800" font-size="40" fill="url(#g)">
+    <text class="msg" x="600" y="70">Thanks for stopping by.</text>
+    <text class="msg m2" x="600" y="70">Keep building. Keep automating.</text>
+  </g>
+  <text x="600" y="108" text-anchor="middle" font-family="'SF Mono','Cascadia Code','JetBrains Mono',Consolas,'Liberation Mono',monospace" font-size="15" letter-spacing="3" fill="#7D8AA0">SEE YOU IN THE COMMIT HISTORY</text>
+  <g opacity=".35"><path class="wave w2" fill="url(#w1)" d="M0 168 Q75 154 150 168 T300 168 Q375 154 450 168 T600 168 Q675 154 750 168 T900 168 Q975 154 1050 168 T1200 168 Q1275 154 1350 168 T1500 168 Q1575 154 1650 168 T1800 168 Q1875 154 1950 168 T2100 168 Q2175 154 2250 168 T2400 168 V230 H0 Z"/></g>
+  <g opacity=".85"><path class="wave" fill="url(#w1)" d="M0 182 Q100 170 200 182 T400 182 Q500 170 600 182 T800 182 Q900 170 1000 182 T1200 182 Q1300 170 1400 182 T1600 182 Q1700 170 1800 182 T2000 182 Q2100 170 2200 182 T2400 182 V230 H0 Z"/></g>
+</svg>

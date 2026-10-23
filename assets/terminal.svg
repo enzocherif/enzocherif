@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="518" viewBox="0 0 1000 518" role="img" aria-label="About Enzo Cherif: Software and Automation Engineer at Alstom (Pittsburgh, USA), working on Automatic Train Supervision. SeaTech INP Toulon and Master RISE in Robotics and Embedded AI.">
+  <defs>
+    <linearGradient id="bd" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity=".7"/><stop offset=".5" stop-color="#22324F"/><stop offset="1" stop-color="#FF2E97" stop-opacity=".7"/>
+    </linearGradient>
+    <radialGradient id="gl" cx=".9" cy="0" r=".7">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".18"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="type"><rect x="0" y="0" width="0" height="518"><animate attributeName="width" from="0" to="297" begin=".4s" dur="1s" fill="freeze" calcMode="discrete" values="96;109;123;136;150;163;176;190;203;217;230;243;257;270;284;297"/></rect></clipPath>
+  </defs>
+  <style>
+    text { font-family: 'SF Mono','Cascadia Code','JetBrains Mono',Consolas,'Liberation Mono',monospace; font-size: 21px; }
+    .ln { opacity: 0; animation: ln .35s ease-out forwards; }
+    @keyframes ln { from { opacity: 0; transform: translateX(-8px) } to { opacity: 1; transform: none } }
+    .cur { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0 } }
+    .late { opacity: 0; animation: ln .3s ease-out 3.56s forwards; }
+  </style>
+  <rect x="1" y="1" width="998" height="516" rx="18" fill="#0A0F1C" stroke="url(#bd)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="998" height="516" rx="18" fill="url(#gl)"/>
+  <path d="M1 64H999" stroke="#1C2A44"/>
+  <circle cx="36" cy="33" r="7" fill="#FF5F57"/><circle cx="60" cy="33" r="7" fill="#FEBC2E"/><circle cx="84" cy="33" r="7" fill="#28C840"/>
+  <text x="500.0" y="39" text-anchor="middle" font-size="15" fill="#5B6B85">enzo@pittsburgh: ~ · zsh</text>
+
+  <g clip-path="url(#type)">
+    <text x="56" y="130"><tspan fill="#22D3A5">➜</tspan><tspan fill="#00E5FF">  ~</tspan><tspan fill="#E6EDF3"> cat ~/about.yml</tspan></text>
+  </g>
+    <text class="ln" style="animation-delay:1.6s" x="56" y="166"><tspan fill="#00E5FF">name</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#A5F3FC">&quot;Enzo Cherif&quot;</tspan></tspan></text>
+    <text class="ln" style="animation-delay:1.82s" x="56" y="202"><tspan fill="#00E5FF">role</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#A5F3FC">&quot;Software &amp; Automation Engineer (V.I.E)&quot;</tspan></tspan></text>
+    <text class="ln" style="animation-delay:2.04s" x="56" y="238"><tspan fill="#00E5FF">company</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#A5F3FC">&quot;Alstom&quot;</tspan><tspan fill="#5B6B85">  # Pittsburgh, USA</tspan></tspan></text>
+    <text class="ln" style="animation-delay:2.26s" x="56" y="274"><tspan fill="#00E5FF">domain</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#A5F3FC">&quot;ATS: Automatic Train Supervision&quot;</tspan></tspan></text>
+    <text class="ln" style="animation-delay:2.48s" x="56" y="310"><tspan fill="#00E5FF">education</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#F0ABFC">[&quot;SeaTech · INP Toulon&quot;, &quot;Master RISE&quot;]</tspan></tspan></text>
+    <text class="ln" style="animation-delay:2.7s" x="56" y="346"><tspan fill="#00E5FF">focus</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#F0ABFC">[&quot;AI automation&quot;, &quot;data pipelines&quot;, &quot;robotics &amp; embedded AI&quot;]</tspan></tspan></text>
+    <text class="ln" style="animation-delay:2.92s" x="56" y="382"><tspan fill="#00E5FF">currently</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#A5F3FC">&quot;bringing AI-assisted tooling into railway software&quot;</tspan></tspan></text>
+    <text class="ln" style="animation-delay:3.14s" x="56" y="418"><tspan fill="#00E5FF">off_hours</tspan><tspan fill="#5B6B85">:</tspan><tspan x="214"><tspan fill="#F0ABFC">[&quot;boxing&quot;, &quot;gym&quot;, &quot;running&quot;]</tspan></tspan></text>
+  <g class="late">
+    <text x="56" y="474"><tspan fill="#22D3A5">➜</tspan><tspan fill="#00E5FF">  ~</tspan></text>
+    <rect class="cur" x="124" y="456" width="11" height="22" fill="#E6EDF3"/>
+  </g>
+</svg>

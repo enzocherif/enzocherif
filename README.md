@@ -1,95 +1,84 @@
-<!-- ═══════════════════════════════ HEADER ═══════════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c9d1&height=210&section=header&text=Enzo%20Cherif&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Robotics%20%E2%80%A2%20Embedded%20AI%20%E2%80%A2%20Automation&descAlignY=57&descSize=18" width="100%" alt="Enzo Cherif"/>
-</p>
+<!-- ═══════════════════════════════ HERO ═══════════════════════════════ -->
+<a href="https://enzocherif.github.io">
+  <img src="assets/hero.svg" width="100%" alt="Enzo Cherif — Software & Automation Engineer @ Alstom · Robotics & Embedded AI"/>
+</a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00C9D1&center=true&vCenter=true&width=640&lines=AI-driven+automation+for+railway+systems+%F0%9F%9A%86;Robotics+%26+Embedded+AI+engineer+%F0%9F%A4%96;Turning+complex+data+into+clear+tools+%E2%9A%99%EF%B8%8F" alt="Typing intro"/>
+  <a href="https://www.linkedin.com/in/enzo-cherif/"><img src="https://img.shields.io/badge/LinkedIn-Enzo%20Cherif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1C" alt="LinkedIn"/></a>
+  <a href="https://enzocherif.github.io"><img src="https://img.shields.io/badge/Portfolio-enzocherif.github.io-00E5FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0A0F1C" alt="Portfolio"/></a>
+  <a href="mailto:enzo.cherif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-FF2E97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1C" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=enzocherif&style=for-the-badge&color=8B5CF6&label=PROFILE%20VIEWS" alt="Profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/enzo-cherif/"><img src="https://img.shields.io/badge/LinkedIn-Enzo%20Cherif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://enzocherif.github.io"><img src="https://img.shields.io/badge/Portfolio-enzocherif.github.io-111111?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:enzo.cherif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<br/>
 
-<!-- ═══════════════════════════════ NOW ═══════════════════════════════ -->
-## 🚆 Right now
+<!-- ═══════════════════════════════ ABOUT ═══════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/about-dark.svg"/>
+  <img src="assets/titles/about-light.svg" width="100%" alt="01 — About me"/>
+</picture>
 
-**V.I.E Software & Automation Engineer @ [Alstom](https://www.alstom.com) — Pittsburgh, USA**
-I build tools for **ATS (Automatic Train Supervision)** systems: automating engineering workflows, processing large configuration and log datasets, and bringing AI-assisted tooling into railway software projects.
+<img src="assets/terminal.svg" width="100%" alt="cat ~/about.yml — Enzo Cherif, Software & Automation Engineer (V.I.E) at Alstom, Pittsburgh. ATS: Automatic Train Supervision. SeaTech · INP Toulon and Master RISE (Robotics & Embedded AI)."/>
+
+I build tools for **ATS (Automatic Train Supervision)** systems at **[Alstom](https://www.alstom.com)**: automating engineering workflows, processing large configuration and log datasets, and bringing AI-assisted tooling into railway software projects.
 
 > [!NOTE]
-> **Where's my day-to-day code?** My professional work is covered by confidentiality and lives on a separate, company-managed GitHub account.
-> This profile showcases my **personal AI, data and robotics projects**, which is why my public contribution graph doesn't reflect my full activity.
+> **Where's my day-to-day code?** My professional work is confidential and lives on a separate, company-managed GitHub account.
+> This profile showcases my **personal AI, data and robotics projects**, so the public contribution graph doesn't reflect my full activity.
+
+<br/>
 
 <!-- ═══════════════════════════════ JOURNEY ═══════════════════════════════ -->
-## 🧭 Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/journey-dark.svg"/>
+  <img src="assets/titles/journey-light.svg" width="100%" alt="02 — Journey"/>
+</picture>
 
-```mermaid
-flowchart LR
-    A["🎓 SeaTech · INP Toulon<br/>Engineering degree"]:::edu --> C
-    B["🤖 Master RISE<br/>Robotics & Embedded AI"]:::edu --> C
-    C["🚆 Alstom · USA<br/>ATS Software & Automation"]:::now --> D
-    D["🚀 Next<br/>AI × Industrial systems"]:::next
+<img src="assets/journey.svg" width="100%" alt="SeaTech · INP Toulon → Master RISE (Robotics & Embedded AI) → Alstom Pittsburgh (now) → AI × industrial systems"/>
 
-    classDef edu  fill:#203a43,stroke:#00c9d1,color:#ffffff
-    classDef now  fill:#00c9d1,stroke:#0f2027,color:#0f2027,font-weight:bold
-    classDef next fill:#0f2027,stroke:#00c9d1,color:#00c9d1,stroke-dasharray:5 5
-```
+<br/>
 
 <!-- ═══════════════════════════════ STACK ═══════════════════════════════ -->
-## 🧰 Tech stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/stack-dark.svg"/>
+  <img src="assets/titles/stack-light.svg" width="100%" alt="03 — Tech stack"/>
+</picture>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,c,cpp,java,matlab,mysql&perline=10" alt="Core stack"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=opencv,ros,flask,html,css,js,git,github,vscode,latex&perline=10" alt="Tools"/>
+  <sub><b>AI · DATA</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda&theme=dark" alt="Python, PyTorch, TensorFlow, scikit-learn, Anaconda"/>
+  <br/><br/>
+  <sub><b>ROBOTICS · EMBEDDED · SYSTEMS</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=ros,opencv,c,cpp,matlab&theme=dark" alt="ROS, OpenCV, C, C++, MATLAB"/>
+  <br/><br/>
+  <sub><b>SOFTWARE · TOOLING</b></sub><br/>
+  <img src="https://skillicons.dev/icons?i=java,mysql,flask,html,css,js,git,github,vscode,latex&theme=dark" alt="Java, MySQL, Flask, HTML, CSS, JavaScript, Git, GitHub, VS Code, LaTeX"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink"/>
-  <img src="https://img.shields.io/badge/Excel%20%26%20XML%20automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel & XML automation"/>
-  <img src="https://img.shields.io/badge/Tkinter%20GUIs-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Simulink-FF7400?style=flat-square&logo=mathworks&logoColor=white" alt="Simulink"/>
+<img src="https://img.shields.io/badge/Excel%20%26%20XML%20automation-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel & XML automation"/>
+<img src="https://img.shields.io/badge/Tkinter%20GUIs-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter GUIs"/>
 </p>
+
+<br/>
 
 <!-- ═══════════════════════════════ PROJECTS ═══════════════════════════════ -->
-## 💼 Featured projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/projects-dark.svg"/>
+  <img src="assets/titles/projects-light.svg" width="100%" alt="04 — Featured projects"/>
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/enzocherif/indian-electricity-price-forecasting">Electricity Price Forecasting</a></h3>
-      Forecasts daily prices on the Indian power exchange from generation mix, historical prices and weather data. Built over a single weekend for an interview case study.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-Time%20series-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/> <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/enzocherif/PyTorch-Fundamentals-DeepLearning.AI-">PyTorch Fundamentals</a></h3>
-      Neural networks from scratch in PyTorch: tensors, activation functions, an MNIST image classifier and feature-engineered regression (DeepLearning.AI).
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/-Deep%20Learning-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📩 <a href="https://github.com/enzocherif/Neural-Network-SMS-Text-Classifier">SMS Spam Classifier</a></h3>
-      Bidirectional LSTM that separates spam from legitimate SMS messages, from text preprocessing to evaluation.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/-NLP-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/-Bi--LSTM-D00000?style=flat-square"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🦾 <a href="https://github.com/enzocherif/qtm_interface">Motion-Capture Robot Control</a></h3>
-      Bridges a Qualisys motion-capture system with ROS to track and pilot a robot in real time, with a user interface and simulation scripts.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"/> <img src="https://img.shields.io/badge/-Robotics-0f2027?style=flat-square"/> <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/enzocherif/indian-electricity-price-forecasting"><img src="assets/cards/forecasting.svg" width="49%" alt="Electricity Price Forecasting"/></a>
+  <a href="https://github.com/enzocherif/PyTorch-Fundamentals-DeepLearning.AI-"><img src="assets/cards/pytorch.svg" width="49%" alt="PyTorch Fundamentals"/></a>
+  <a href="https://github.com/enzocherif/Neural-Network-SMS-Text-Classifier"><img src="assets/cards/sms.svg" width="49%" alt="SMS Spam Classifier"/></a>
+  <a href="https://github.com/enzocherif/qtm_interface"><img src="assets/cards/robot.svg" width="49%" alt="Motion-Capture Robot Control"/></a>
+</p>
 
 <details>
 <summary><b>🗂️ More AI & data projects</b> <i>(click to expand)</i></summary>
@@ -105,27 +94,44 @@ flowchart LR
 
 </details>
 
+<br/>
+
 <!-- ═══════════════════════════════ ACTIVITY ═══════════════════════════════ -->
-## 🐍 Contribution activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/activity-dark.svg"/>
+  <img src="assets/titles/activity-light.svg" width="100%" alt="05 — GitHub activity"/>
+</picture>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=enzocherif&show_icons=true&custom_title=Public%20coding%20stats&bg_color=0A0F1C&title_color=00E5FF&text_color=C9D1D9&icon_color=FF2E97&border_color=1C2A44&border_radius=18" height="165" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=enzocherif&background=0A0F1C&border=1C2A44&stroke=1C2A44&ring=00E5FF&fire=FF2E97&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=7D8AA0&border_radius=18" height="165" alt="GitHub streak"/>
+</p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzocherif/enzocherif/output/github-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzocherif/enzocherif/output/github-snake.svg"/>
-    <img src="https://raw.githubusercontent.com/enzocherif/enzocherif/output/github-snake.svg" alt="Snake eating my contribution graph"/>
+    <img src="https://raw.githubusercontent.com/enzocherif/enzocherif/output/github-snake.svg" width="100%" alt="Snake eating my contribution graph"/>
   </picture>
 </p>
 
-<!-- ═══════════════════════════════ BEYOND CODE ═══════════════════════════════ -->
-## 🥊 Beyond code
+<br/>
 
-Boxing, gym and outdoor running keep me sharp, and the same discipline shows up in how I debug.
+<!-- ═══════════════════════════════ CONTACT ═══════════════════════════════ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/titles/contact-dark.svg"/>
+  <img src="assets/titles/contact-light.svg" width="100%" alt="06 — Let's connect"/>
+</picture>
 
-<!-- ═══════════════════════════════ FOOTER ═══════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C9D1&center=true&vCenter=true&width=520&lines=Open+to+connecting+on+AI+%26+automation+%F0%9F%A4%9D;Thanks+for+stopping+by+%F0%9F%91%8B" alt="Thanks"/>
+  Open to talking about <b>AI</b>, <b>automation</b> and <b>industrial / railway systems</b>.<br/>
+  Off the keyboard: 🥊 boxing, 🏋️ gym and 🏃 outdoor running. Same discipline shows up in how I debug.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c9d1,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt=""/>
+  <a href="https://www.linkedin.com/in/enzo-cherif/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0F1C" alt="LinkedIn"/></a>
+  <a href="mailto:enzo.cherif.contact@gmail.com"><img src="https://img.shields.io/badge/Email-enzo.cherif.contact%40gmail.com-FF2E97?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0F1C" alt="Email"/></a>
+  <a href="https://enzocherif.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit%20site-00E5FF?style=for-the-badge&logo=githubpages&logoColor=white&labelColor=0A0F1C" alt="Portfolio"/></a>
 </p>
+
+<img src="assets/footer.svg" width="100%" alt="Thanks for stopping by — keep building, keep automating."/>
